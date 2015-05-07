@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programs>   
+    <program>
+        <name>program_name</name>
+        <details>wqer</details>
+        <coordinator>Usman</coordinator>
+    </program>
+    <program>
+        <name>program_name_2</name>
+        <details>This program name 2</details>
+        <coordinator>Usman</coordinator>
+    </program>
+    <program>
+        <name>program_name_3</name>
+        <details>hello</details>
+        <coordinator>Usman</coordinator>
+    </program>
+</programs>
