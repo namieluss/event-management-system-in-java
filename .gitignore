@@ -14,5 +14,6 @@ hs_err_pid*
 
 # Netbeans
 nbproject/
+nbproject/*
 
 
